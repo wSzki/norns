@@ -12,4 +12,7 @@ https://octopart.com/bom-tool/Q3rQej3x
 # Lines Discussion
 https://llllllll.co/t/diy-norns-shield/27638
 
+# Laser Cutting
+https://www.formulor.de/
+
 https://github.com/monome/norns-shield

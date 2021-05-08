@@ -14,5 +14,18 @@ https://llllllll.co/t/diy-norns-shield/27638
 
 # Laser Cutting
 https://www.formulor.de/
-
+https://www.sculpteo.com/
+https://www.mouser.es/ProductDetail/CK/PE-BK?qs=%2Fha2pyFadui7ZSwHYrlApnoqx5L83GMTc4xoLumVO3Q%3D
 https://github.com/monome/norns-shield
+
+
+https://www.thingiverse.com/thing:4645031/files
+
+
+# COST
+BOM 70
+Raspberry 45
+Top case 3
+bottom case 10
+SD card 10
+PCB 15

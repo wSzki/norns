@@ -1,0 +1,320 @@
+"LEVELS": 9
+"REVERB": 11
+"rev_eng_input": 6.6851385949393
+"rev_cut_input": 6.6851385949393
+"rev_monitor_input": -inf
+"rev_tape_input": -inf
+"rev_return_level": -9.6432746655329e-16
+"rev_pre_delay": 60.0
+"rev_lf_fc": 206.08211158225
+"rev_low_time": 5.205
+"rev_mid_time": 7.908
+"rev_hf_damping": 6000.0
+"COMPRESSOR": 8
+"comp_mix": 1
+"comp_ratio": 4.0
+"comp_threshold": -18.0
+"comp_attack": 5.0
+"comp_release": 50.0
+"comp_pre_gain": 0.0
+"comp_post_gain": 9.0
+"SOFTCUT": 3
+"cut_input_adc": -9.6432746655329e-16
+"cut_input_eng": -inf
+"cut_input_tape": -inf
+"CLOCK": 27
+"startup": 6
+"load on start": 1
+"play on start": 1
+"start lfos random": 2
+"start length": 16
+"use kolor": 1
+"use middy": 1
+"recording": 7
+"pre level": 1.0
+"rec level": 0.5
+"rec thresh": -60
+"rec thru loops": 1
+"stop rec after": 1
+"input type": 4
+"sync lengths to first": 1
+"save/load": 3
+"save_name": 
+"load_name": /home/we/dust/data/oooooo/names/
+"save_message": 
+"all loops": 10
+"pause lfos": 1
+"destroy loops": 0
+"vol ramp": 0.0
+"randomize all on reset": 1
+"reset all every": 0
+"continous rate": 1
+"slew rate": 24.0
+"tape warble": 0
+"scale_mode": 1
+"expert mode": 1
+"loop 1": 41
+"1start": 0.0
+"1start lfo amp": 0.2
+"1start lfo period": 0.0
+"1start lfo offset": 0.0
+"1length": 78.0
+"1length lfo amp": 0.2
+"1length lfo period": 0
+"1length lfo offset": 0
+"1vol": 0.5
+"1vol lfo amp": 0.2
+"1vol lfo period": 18.0
+"1vol lfo offset": 60
+"1rate": 13
+"1rate adjust": 0.0
+"1rate tone": 0
+"1rate reverse": 2
+"1rate lfo center": 10
+"1rate lfo amp": 0.2
+"1rate lfo period": 0
+"1rate lfo offset": 0
+"1pan": 0.0
+"1pan lfo amp": 0.48
+"1pan lfo period": 18.0
+"1pan lfo offset": 12.0
+"1reset every beat": 0
+"1randomize on reset": 1
+"1sync tape with": 1
+"1filter_frequency": 20000
+"1filter_reso": 1
+"1filter lfo amp": 0.5
+"1filter lfo period": 0
+"1filter lfo offset": 0
+"1crossfade": 150.0
+"1warble seed": 1
+"1play trig": 0
+"1stop trig": 0
+"1recording trig": 0
+"1arming trig": 0
+"1reset trig": 0
+"1load_file": /home/we/dust/audio/
+"1isempty": 2
+"loop 2": 41
+"2start": 0.0
+"2start lfo amp": 0.2
+"2start lfo period": 0.0
+"2start lfo offset": 0.0
+"2length": 78.0
+"2length lfo amp": 0.2
+"2length lfo period": 0
+"2length lfo offset": 0
+"2vol": 0.5
+"2vol lfo amp": 0.11
+"2vol lfo period": 6.0
+"2vol lfo offset": 48.0
+"2rate": 13
+"2rate adjust": 0.0
+"2rate tone": 0
+"2rate reverse": 2
+"2rate lfo center": 10
+"2rate lfo amp": 0.2
+"2rate lfo period": 0
+"2rate lfo offset": 0
+"2pan": 0.0
+"2pan lfo amp": 0.41
+"2pan lfo period": 18.0
+"2pan lfo offset": 36.0
+"2reset every beat": 0
+"2randomize on reset": 1
+"2sync tape with": 1
+"2filter_frequency": 20000
+"2filter_reso": 1
+"2filter lfo amp": 0.5
+"2filter lfo period": 0
+"2filter lfo offset": 0
+"2crossfade": 150.0
+"2warble seed": 1
+"2play trig": 0
+"2stop trig": 0
+"2recording trig": 0
+"2arming trig": 0
+"2reset trig": 0
+"2load_file": /home/we/dust/audio/
+"2isempty": 2
+"loop 3": 41
+"3start": 0.0
+"3start lfo amp": 0.2
+"3start lfo period": 0.0
+"3start lfo offset": 0.0
+"3length": 78.0
+"3length lfo amp": 0.2
+"3length lfo period": 0
+"3length lfo offset": 0
+"3vol": 0.5
+"3vol lfo amp": 0.14
+"3vol lfo period": 6.0
+"3vol lfo offset": 42.0
+"3rate": 13
+"3rate adjust": 0.0
+"3rate tone": 0
+"3rate reverse": 2
+"3rate lfo center": 10
+"3rate lfo amp": 0.2
+"3rate lfo period": 0
+"3rate lfo offset": 0
+"3pan": 0.0
+"3pan lfo amp": 0.29
+"3pan lfo period": 24.0
+"3pan lfo offset": 48.0
+"3reset every beat": 0
+"3randomize on reset": 1
+"3sync tape with": 1
+"3filter_frequency": 20000
+"3filter_reso": 1
+"3filter lfo amp": 0.5
+"3filter lfo period": 0
+"3filter lfo offset": 0
+"3crossfade": 150.0
+"3warble seed": 1
+"3play trig": 0
+"3stop trig": 0
+"3recording trig": 0
+"3arming trig": 0
+"3reset trig": 0
+"3load_file": /home/we/dust/audio/
+"3isempty": 2
+"loop 4": 41
+"4start": 0.0
+"4start lfo amp": 0.2
+"4start lfo period": 0.0
+"4start lfo offset": 0.0
+"4length": 78.0
+"4length lfo amp": 0.2
+"4length lfo period": 0
+"4length lfo offset": 0
+"4vol": 0.5
+"4vol lfo amp": 0.23
+"4vol lfo period": 6.0
+"4vol lfo offset": 36.0
+"4rate": 13
+"4rate adjust": 0.0
+"4rate tone": 0
+"4rate reverse": 2
+"4rate lfo center": 10
+"4rate lfo amp": 0.2
+"4rate lfo period": 0
+"4rate lfo offset": 0
+"4pan": 0.0
+"4pan lfo amp": 0.49
+"4pan lfo period": 12.0
+"4pan lfo offset": 6.0
+"4reset every beat": 0
+"4randomize on reset": 1
+"4sync tape with": 1
+"4filter_frequency": 20000
+"4filter_reso": 1
+"4filter lfo amp": 0.5
+"4filter lfo period": 0
+"4filter lfo offset": 0
+"4crossfade": 150.0
+"4warble seed": 1
+"4play trig": 0
+"4stop trig": 0
+"4recording trig": 0
+"4arming trig": 0
+"4reset trig": 0
+"4load_file": /home/we/dust/audio/
+"4isempty": 2
+"loop 5": 41
+"5start": 0.0
+"5start lfo amp": 0.2
+"5start lfo period": 0.0
+"5start lfo offset": 0.0
+"5length": 78.0
+"5length lfo amp": 0.2
+"5length lfo period": 0
+"5length lfo offset": 0
+"5vol": 0.5
+"5vol lfo amp": 0.3
+"5vol lfo period": 12.0
+"5vol lfo offset": 6.0
+"5rate": 13
+"5rate adjust": 0.0
+"5rate tone": 0
+"5rate reverse": 2
+"5rate lfo center": 10
+"5rate lfo amp": 0.2
+"5rate lfo period": 0
+"5rate lfo offset": 0
+"5pan": 0.0
+"5pan lfo amp": 0.26
+"5pan lfo period": 18.0
+"5pan lfo offset": 36.0
+"5reset every beat": 0
+"5randomize on reset": 1
+"5sync tape with": 1
+"5filter_frequency": 20000
+"5filter_reso": 1
+"5filter lfo amp": 0.5
+"5filter lfo period": 0
+"5filter lfo offset": 0
+"5crossfade": 150.0
+"5warble seed": 1
+"5play trig": 0
+"5stop trig": 0
+"5recording trig": 0
+"5arming trig": 0
+"5reset trig": 0
+"5load_file": /home/we/dust/audio/
+"5isempty": 2
+"loop 6": 41
+"6start": 0.0
+"6start lfo amp": 0.2
+"6start lfo period": 0.0
+"6start lfo offset": 0.0
+"6length": 78.0
+"6length lfo amp": 0.2
+"6length lfo period": 0
+"6length lfo offset": 0
+"6vol": 0.5
+"6vol lfo amp": 0.23
+"6vol lfo period": 18.0
+"6vol lfo offset": 12.0
+"6rate": 13
+"6rate adjust": 0.0
+"6rate tone": 0
+"6rate reverse": 2
+"6rate lfo center": 10
+"6rate lfo amp": 0.2
+"6rate lfo period": 0
+"6rate lfo offset": 0
+"6pan": 0.0
+"6pan lfo amp": 0.74
+"6pan lfo period": 18.0
+"6pan lfo offset": 18.0
+"6reset every beat": 0
+"6randomize on reset": 1
+"6sync tape with": 1
+"6filter_frequency": 20000
+"6filter_reso": 1
+"6filter lfo amp": 0.5
+"6filter lfo period": 0
+"6filter lfo offset": 0
+"6crossfade": 150.0
+"6warble seed": 1
+"6play trig": 0
+"6stop trig": 0
+"6recording trig": 0
+"6arming trig": 0
+"6reset trig": 0
+"6load_file": /home/we/dust/audio/
+"6isempty": 2
+"choose mode": 1
+"activate mode": 0
+"activate sequencer": 0
+"root note": 48
+"chord1": 6
+"chord2": 4
+"chord3": 1
+"chord4": 5
+"octave sequence": 1
+"loops to record": 6
+"solo probability": 5
+"gate length": 75
+"po clock start": 5

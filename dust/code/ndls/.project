@@ -1,0 +1,24 @@
+{
+  "file_info": {
+    "version": 1,
+    "kind": "project_metadata"
+  },
+  "installed_on": "2024-07-24T01:10:52.567052456+01:00",
+  "updated_on": "0001-01-01T00:00:00Z",
+  "project_url": "https://github.com/andr-ew/ndls/releases/download/latest/complete-source-code.zip",
+  "catalog_entry": {
+    "project_name": "ndls",
+    "project_url": "https://github.com/andr-ew/ndls/releases/download/latest/complete-source-code.zip",
+    "author": "andrew",
+    "description": "4-track modeless tape looper, delay, \u0026 sampler",
+    "discussion_url": "https://llllllll.co/t/ndls/",
+    "documentation_url": "https://github.com/andr-ew/ndls",
+    "tags": [
+      "delay",
+      "looper",
+      "sampler",
+      "grid",
+      "arc"
+    ]
+  }
+}

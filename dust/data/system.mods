@@ -1,0 +1,20 @@
+return {
+-- Table: {1}
+{
+   "fx_resonator",
+   "fx_delay",
+   "emplaitress",
+   "fx_tanh",
+   "tg",
+   "oilcan",
+   "toolkit",
+   "nbout",
+   "passthrough",
+   "nice-tapes",
+   "fx_grains",
+   "cyrene",
+   "nbin",
+   "matrix",
+   "fx",
+},
+}
